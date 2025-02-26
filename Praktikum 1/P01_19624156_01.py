@@ -2,13 +2,6 @@
 # Tanggal : 17/10/2024
 # Deskripsi : Problem 01
 
-#Program NilaiAkhir
-#Menhitung nilai akhir dari rata-rata kuis 1, kuis 2, kuis 3
-
-#KAMUS
-# A, B, C : int
-
-#ALGORITMA
 A = int(input("Masukkan nilai kuis pertama: "))
 B = int(input("Masukkan nilai kuis kedua: "))
 C = int(input("Masukkan nilai kuis ketiga: "))
