@@ -2,13 +2,6 @@
 # Tanggal : 17/10/2024
 # Deskripsi : Problem 02
 
-#Program DollarKompeng
-#Menentukan berapa dollar kompeng yang akan diterima oleh setiap peserta yang terkualifikasi
-
-#KAMUS
-# N, T, Leo, Deb, Sal : int
-
-#ALGORITMA
 N = int(input("Masukkan Nilai N: "))
 T = int(input("Masukkan Nilai T: "))
 
