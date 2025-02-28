@@ -9,5 +9,4 @@
 ---
 
 ## ⚙️ Nilai Setiap Praktikum dan Indeks:
-(https://i.imgur.com/r8kpwJr.png)
-
+![Image](https://github.com/user-attachments/assets/32a441d1-8d24-44b4-b4c8-dcc923ddaf26)
