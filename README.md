@@ -1,4 +1,4 @@
-# Praktikum Mata Kuliah Wajib Berpikir Komputasional ITB
+# Praktikum Mata Kuliah Wajib Berpikir Komputasional ITB (STEI-K)
 ---
 ## 🙋‍♂️ Program Dibuat Oleh:
    - **Nama:** Riantama Putra
